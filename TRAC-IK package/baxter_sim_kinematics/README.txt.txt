@@ -7,4 +7,4 @@ This ROS package has been modified by Martin Feick. It enables the use of the TR
 2) Download this ROS package
 3) Copy the package into your Baxter workspace
 4) Rebuild your workspace
-5) Now, you can use IK-Fast on your Baxter robot
+5) Now, you can use TRAC-IK on your Baxter robot
